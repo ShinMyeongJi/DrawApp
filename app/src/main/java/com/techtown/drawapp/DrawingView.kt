@@ -45,10 +45,10 @@ class DrawingView : View, View.OnTouchListener {
 
     var lineWith : Float
         get() {
-            return 1f
+            return 5f
         }
         set(value) {
-            this.lineWith = 1f
+            this.lineWith = 5f
         }
 
 
